@@ -5,7 +5,7 @@ import { COLORS } from "../../../../constants/colors";
 const NotFoundMessage = styled.div`
   margin-top: 20px;
   & p {
-    color: ${COLORS.ERROR};
+    color: ${COLORS.DARK};
   }
 `;
 
