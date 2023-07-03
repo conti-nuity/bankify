@@ -6,7 +6,7 @@ import { type Loading } from "../../../../types";
 const LoadingMessage = styled.div`
   margin-top: 20px;
   & p {
-    color: ${COLORS.ERROR};
+    color: ${COLORS.DARK};
   }
 `;
 
